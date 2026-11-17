@@ -1,12 +1,3 @@
-Typing SVG
-
-
-
-LinkedIn
-Email
-Portfolio
-Medium
-
 🚀 Executive Summary
 
 "Turning data into intelligence, and strategy into shipped product."
